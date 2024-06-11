@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nasreen-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasreen-aslam" height="30" width="40" /></a>
 <a href="https://instagram.com/nasrin._.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasrin._.here" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/studysays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="studysays" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Studysays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Studysays" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nasreen a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nasreen a" height="30" width="40" /></a>
 </p>
 
